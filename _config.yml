@@ -1,3 +1,9 @@
 theme: jekyll-theme-dinky
 title: TTFL
 description: [The Game We Love]
+
+color-01: '#2d3436'
+color-02: '#55efc4'
+color-03: '#ff9f43'
+
+markdown: kramdown
