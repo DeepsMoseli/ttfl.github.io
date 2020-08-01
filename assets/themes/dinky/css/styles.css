@@ -1,33 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@DeepsMoseli 
-sodabrew
-/
-theme-dinky
-forked from broccolini/dinky
-8
-48
-42
-Code
-Pull requests
-Actions
-Projects
-Security
-Insights
-theme-dinky/assets/themes/dinky/css/styles.css
-@sodabrew
-sodabrew First move of Dinky into Jekyll Bootstrap theme format.
-Latest commit 1eee595 on Jul 3, 2012
- History
- 1 contributor
-412 lines (327 sloc)  6.4 KB
-  
 @import url(http://fonts.googleapis.com/css?family=Arvo:400,700,400italic);
 
 /* MeyerWeb Reset */
