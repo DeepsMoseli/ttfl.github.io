@@ -1,6 +1,6 @@
 # HOME
 
-TTFL is a football fantasy league that is based on the [EPL](https://www.premierleague.com/) and runs in parallel with it.
+TTFL is a football fantasy league based on the [EPL](https://www.premierleague.com/) and runs in parallel with it.
 ![banner](https://icdn.chelsea-news.co/wp-content/uploads/2020/04/skysports-premier-league-grades_4818987.jpg)
 
 ### 1. COMPOSITION
@@ -36,3 +36,5 @@ All league codes will  be made available to qualified managers atleast a week be
 At the end of a full season, the bottom 3 TTFL HTH teams are automatically relegated and the __top 3__ in Championship gain automatic promotion to the top flight. __All relegation criteria applies before promotion.__
 
 Relegation from Championship means the team will not play any HTH league the next season. The 3 spots will be filled by the highest 3 teams in classic not playing in any HTH league. Again __All relegation criteria applies before promotion.__
+
+#########################################################################
