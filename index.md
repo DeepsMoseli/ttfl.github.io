@@ -13,7 +13,7 @@ TTFL is a football fantasy league based on the [EPL](https://www.premierleague.c
 
 ### 2. MEMBERSHIP
 
-All TTFL teams are expected to be part of exactly 2 of the above league according to their eligibility.
+All TTFL teams are expected to be part of atmost 2 of the above league according to their eligibility.
 Managers are also expected to join and participate in the league's whatsapp group to an acceptable level throughout the season.
 Managers are mandated to manage their clubs throughout the season. Failure to manage the team for __5+ consecutive game weeks__ will render the club __'a ghost'__, and such a club stands to face relegation at the end of the season.
 
