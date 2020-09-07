@@ -42,3 +42,7 @@ At the end of a full season, the bottom 3 TTFL HTH teams are automatically releg
 Relegation from Championship means the team will not play any HTH league the next season. The 3 spots will be filled by the highest 3 teams in classic not playing in any HTH league. Again __All relegation criteria applies before promotion.__
 
 -----
+
+## WHERE OUR TEAMS ARE BASED
+
+![ttfl map](ttfl_map.png)
