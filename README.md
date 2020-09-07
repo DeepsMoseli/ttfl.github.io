@@ -1,6 +1,6 @@
 # HOME
 
-OFFICIAL EVENTS | # GW MIX | # TOP MANAGER | # TOP PLAYERS |
+OFFICIAL EVENTS | GW MUSIC MIX | TOP MANAGER | TOP PLAYERS |
 --- | --- | --- | ---|
 [Click me](http://www.google.com) | [Focused Melodies](https://www.youtube.com/watch?v=YLMhwy7B6MA) | NONE | [TOP PLAYERS](https://en.as.com/resultados/futbol/inglaterra/2019_2020/ranking/jugadores/)
 
@@ -44,5 +44,3 @@ At the end of a full season, the bottom 3 TTFL HTH teams are automatically releg
 Relegation from Championship means the team will not play any HTH league the next season. The 3 spots will be filled by the highest 3 teams in classic not playing in any HTH league. Again __All relegation criteria applies before promotion.__
 
 #########################################################################
-
-
