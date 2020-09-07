@@ -1,6 +1,6 @@
-OFFICIAL EVENTS | MUSIC FOR THE GW  | MOTW| TOP PLAYERS | FAME |
+GW EVENTS | GW MUSIC | MOTW| POTW | FAME |
 --- | --- | --- | --- | --- |
-[GW1 Venues](events.md) | [Focused Melodies](https://www.youtube.com/watch?v=YLMhwy7B6MA) | [OLDSTOKE](https://fantasy.premierleague.com/entry/1307212/history) | [TOP PLAYERS](https://en.as.com/resultados/futbol/inglaterra/2019_2020/ranking/jugadores/) | [Winners](winners.md)|
+[GW1](events.md) | [FocusedMelodies](https://www.youtube.com/watch?v=YLMhwy7B6MA) | [OLDSTOKE](https://fantasy.premierleague.com/entry/1307212/history) | [SALAH](https://en.as.com/resultados/futbol/inglaterra/2019_2020/ranking/jugadores/) | [Winners](winners.md)|
 
 -----
 
