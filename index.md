@@ -1,6 +1,6 @@
-OFFICIAL EVENTS | MUSIC FOR THE GW  | MANAGER OF THE WEEK | TOP PLAYERS |
---- | --- | --- | ---|
-[GW1 Venues](events.md) | [Focused Melodies](https://www.youtube.com/watch?v=YLMhwy7B6MA) | [OLDSTOKE](https://fantasy.premierleague.com/entry/1307212/history) | [TOP PLAYERS](https://en.as.com/resultados/futbol/inglaterra/2019_2020/ranking/jugadores/)
+OFFICIAL EVENTS | MUSIC FOR THE GW  | MANAGER OF THE WEEK | TOP PLAYERS | FAME |
+--- | --- | --- | --- | --- |
+[GW1 Venues](events.md) | [Focused Melodies](https://www.youtube.com/watch?v=YLMhwy7B6MA) | [OLDSTOKE](https://fantasy.premierleague.com/entry/1307212/history) | [TOP PLAYERS](https://en.as.com/resultados/futbol/inglaterra/2019_2020/ranking/jugadores/) | [Winners](winners.md)|
 
 -----
 
@@ -11,7 +11,7 @@ TTFL is a football fantasy league based on the [EPL](https://www.premierleague.c
 
  __TTFL is made up of, but not limited to the 3 leagues below as of 2020.__
  
- * TTFL classic
+ * TTFL classic (Code: d62bu2)
  * TTFL HTH
  * TTFL championship HTH
 
