@@ -1,4 +1,5 @@
-OFFICIAL EVENTS | # GW MIX | # TOP MANAGER | # TOP PLAYERS |
+
+OFFICIAL EVENTS | GW MUSIC MIX | TOP MANAGER | TOP PLAYERS |
 --- | --- | --- | ---|
 [Click me](http://www.google.com) | [Focused Melodies](https://www.youtube.com/watch?v=YLMhwy7B6MA) | NONE | [TOP PLAYERS](https://en.as.com/resultados/futbol/inglaterra/2019_2020/ranking/jugadores/)
 
