@@ -1,12 +1,14 @@
 # HOME
 
-
-OFFICIAL EVENTS | MUSIC FOR THE GW  | MANAGER OF THE WEEK | TOP PLAYERS |
---- | --- | --- | ---|
-[GW1 Venues](events.md) | [Focused Melodies](https://www.youtube.com/watch?v=YLMhwy7B6MA) | [OLDSTOKE](https://fantasy.premierleague.com/entry/1307212/history) | [TOP PLAYERS](https://en.as.com/resultados/futbol/inglaterra/2019_2020/ranking/jugadores/)
+GW EVENTS | GW MUSIC | MOTW| POTW | FAME |
+--- | --- | --- | --- | --- |
+[GW1](events.md) | [Focused Melodies](https://www.youtube.com/watch?v=YLMhwy7B6MA) | [Old Stock](https://fantasy.premierleague.com/entry/1307212/history) | [Salah](https://en.as.com/resultados/futbol/inglaterra/2019_2020/ranking/jugadores/) | [Winners](winners.md)|
 
 -----
+#### Live Bets
+[GW1](gw1.md) | [GW2](gw2.md) | [GW3](gw3.md) | [GW4](gw4.md) | [GW4](gw4.md) |
 
+-----
 TTFL is a football fantasy league based on the [EPL](https://www.premierleague.com/) and runs in parallel with it.
 ![banner](https://icdn.chelsea-news.co/wp-content/uploads/2020/04/skysports-premier-league-grades_4818987.jpg)
 
@@ -14,7 +16,7 @@ TTFL is a football fantasy league based on the [EPL](https://www.premierleague.c
 
  __TTFL is made up of, but not limited to the 3 leagues below as of 2020.__
  
- * TTFL classic
+ * TTFL classic (Code: d62bu2)
  * TTFL HTH
  * TTFL championship HTH
 
@@ -45,3 +47,7 @@ At the end of a full season, the bottom 3 TTFL HTH teams are automatically releg
 Relegation from Championship means the team will not play any HTH league the next season. The 3 spots will be filled by the highest 3 teams in classic not playing in any HTH league. Again __All relegation criteria applies before promotion.__
 
 -----
+
+## WHERE OUR TEAMS ARE BASED
+
+![ttfl map](ttfl_map.png)
