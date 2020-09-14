@@ -1,6 +1,6 @@
 GW EVENTS | GW MUSIC | MOTW| POTW | FAME |
 --- | --- | --- | --- | --- |
-[GW1](events.md) | [Focused Melodies](https://www.youtube.com/watch?v=YLMhwy7B6MA) | [Old Stock](https://fantasy.premierleague.com/entry/1307212/history) | [Salah](https://en.as.com/resultados/futbol/inglaterra/2019_2020/ranking/jugadores/) | [Winners](winners.md)|
+[GW1](events.md) | [Focused Melodies Part2](https://www.youtube.com/watch?v=OVk0eQ0mu-M) | [Old Stock](https://fantasy.premierleague.com/entry/1307212/history) | [Salah](https://en.as.com/resultados/futbol/inglaterra/2019_2020/ranking/jugadores/) | [Winners](winners.md)|
 
 -----
 #### Live Bets
