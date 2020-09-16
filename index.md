@@ -5,7 +5,7 @@
 
 -----
 
-#### Live Bets(NOT ACTIVE YET!)
+#### Live Bets(COMING IN GW 10)
 [GW1](gw1.md) | [GW2](gw2.md) | [GW3](gw3.md) | [GW4](gw4.md) | [GW4](gw4.md) |
 
 -----
