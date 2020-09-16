@@ -1,8 +1,10 @@
-GW EVENTS | GW MUSIC | MOTW| POTW | FAME |
---- | ---- | --- | --- | --- |
-[GW1](events.md) | [Focused Melodies Part2](https://www.youtube.com/watch?v=OVk0eQ0mu-M) | [NC BOYS](https://fantasy.premierleague.com/entry/2258467/event/1) | [Salah](https://en.wikipedia.org/wiki/Mohamed_Salah) | [Winners](winners.md)|
-[GW2](events.md) | [Maxim_Lein_Vocal_Deep](https://www.youtube.com/watch?v=uuGiZWl13Zk) | [N/A](https://google.com) | [N/A](https://en.wikipedia.org) | [Winners](winners.md)|
+|GW EVENTS | GW MUSIC | MOTW| POTW | FAME |
+|--- | ---- | --- | --- | --- |
+|[GW1](events.md) | [Focused Melodies Part2](https://www.youtube.com/watch?v=OVk0eQ0mu-M) | [NC BOYS](https://fantasy.premierleague.com/entry/2258467/event/1) | [Salah](https://en.wikipedia.org/wiki/Mohamed_Salah) | [Winners](winners.md)|
+|[GW2](events.md) | [Maxim_Lein_Vocal_Deep](https://www.youtube.com/watch?v=uuGiZWl13Zk) | [N/A](https://google.com) | [N/A](https://en.wikipedia.org) | [Winners](winners.md)|
+
 -----
+
 #### Live Bets(NOT ACTIVE YET!)
 [GW1](gw1.md) | [GW2](gw2.md) | [GW3](gw3.md) | [GW4](gw4.md) | [GW4](gw4.md) |
 
