@@ -10,7 +10,7 @@
 
 -----
 TTFL is a football fantasy league based on the [EPL](https://www.premierleague.com/) and runs in parallel with it.
-![banner](https://icdn.chelsea-news.co/wp-content/uploads/2020/04/skysports-premier-league-grades_4818987.jpg)
+![banner](https://cdn.i-scmp.com/sites/default/files/styles/1200x800/public/d8/images/methode/2020/09/15/f7520b18-f6f5-11ea-a41c-8cbd1416100a_image_hires_112346.jpg?itok=C25DDz6v&v=1600140234)
 
 ### 1. COMPOSITION
 
