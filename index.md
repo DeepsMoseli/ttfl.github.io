@@ -92,7 +92,7 @@ Relegation from Championship means the team will not play any HTH league the nex
 </details>
 
 <details>
- <summary> <icon class="fa fa-map-marker"></i> TEAM HOMES </summary>
+ <summary> <i class="fa fa-map-marker"></i> TEAM HOMES </summary>
  <img src="ttfl_map.png" alt="ttfl map">
 </details>
 
