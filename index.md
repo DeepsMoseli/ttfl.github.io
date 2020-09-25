@@ -13,19 +13,21 @@
 TTFL is a football fantasy league based on the [EPL](https://www.premierleague.com/) and runs in parallel with it.
 ![banner](https://cdn.i-scmp.com/sites/default/files/styles/1200x800/public/d8/images/methode/2020/09/15/f7520b18-f6f5-11ea-a41c-8cbd1416100a_image_hires_112346.jpg?itok=C25DDz6v&v=1600140234)
 
-### 1. COMPOSITION
-
- __TTFL is made up of, but not limited to the 3 leagues below as of 2020.__
+<details>
+<summary>LEAGUES</summary>
+<p>
+ TTFL is made up of, but not limited to the 3 leagues below as of 2020.
  
- * [TTFL classic](https://fantasy.premierleague.com/leagues/106494/standings/c)
- * [TTFL HTH](https://fantasy.premierleague.com/leagues/153036/standings/h)
- * [TTFL championship HTH](https://fantasy.premierleague.com/leagues/153084/standings/h)
+ <li><a href = "https://fantasy.premierleague.com/leagues/106494/standings/c" >TTFL classic</a></li>
+ <li><a href = "https://fantasy.premierleague.com/leagues/153036/standings/h">TTFL HTH</a></li>
+ <li><a href="https://fantasy.premierleague.com/leagues/153084/standings/h">TTFL championship HTH</a></li>
+<p>
+</details>
 
 <details>
  <summary>CONSTITUTION</summary>
 
-
-<h3> 2. MEMBERSHIP</h3>
+<h3> MEMBERSHIP </h3>
 
 <p>
 All TTFL teams are expected to be part of atmost 2 of the above league according to their eligibility.
@@ -58,8 +60,7 @@ Relegation from Championship means the team will not play any HTH league the nex
 </p>
 </details>
 
------
-
-## WHERE OUR TEAMS ARE BASED
-
-![ttfl map](ttfl_map.png)
+<details>
+ <summary>TEAM HOMES</summary>
+ <img src="ttfl_map.png" alt="ttfl map">
+</details>
