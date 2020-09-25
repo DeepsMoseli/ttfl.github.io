@@ -45,7 +45,7 @@
 -----
 
 <details>
-<summary><i class="fa fa-trophy"></i>LEAGUES</summary>
+<summary> <i class="fa fa-trophy"></i> LEAGUES </summary>
 <p>
  TTFL is made up of, but not limited to the 3 leagues below as of 2020.
  
@@ -56,7 +56,7 @@
 </details>
 
 <details>
- <summary><i class="fa fa-file-pdf-o"></i>CONSTITUTION</summary>
+ <summary> <i class="fa fa-file-pdf-o"></i> CONSTITUTION </summary>
 
 <h3> MEMBERSHIP </h3>
 
@@ -92,7 +92,7 @@ Relegation from Championship means the team will not play any HTH league the nex
 </details>
 
 <details>
- <summary><icon class="fa fa-map-marker"></>TEAM HOMES</summary>
+ <summary> <icon class="fa fa-map-marker"></i> TEAM HOMES </summary>
  <img src="ttfl_map.png" alt="ttfl map">
 </details>
 
