@@ -150,13 +150,21 @@ img {
 }
 
 /*------------------ moseli edits ------------------*/
-details > summary {
+details summary {
   padding: 10px;
   background-color: lightgreen;
   border: none;
   box-shadow: 1px 1px 2px #bbbbbb;
   cursor: pointer;
   text-align: center;
+}
+
+html { 
+  background: url(https://cdn.i-scmp.com/sites/default/files/styles/1200x800/public/d8/images/methode/2020/09/15/f7520b18-f6f5-11ea-a41c-8cbd1416100a_image_hires_112346.jpg?itok=C25DDz6v&v=1600140234) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 /*---------------------------------------------------*/
