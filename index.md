@@ -1,20 +1,51 @@
-|GW EVENTS | GW MUSIC | MOTW| POTW | FAME |
-|--- | ---- | --- | --- | --- |
-|[GW1](events.md) | [Focused Melodies](https://www.youtube.com/watch?v=OVk0eQ0mu-M) | [NC Boys](https://fantasy.premierleague.com/entry/2258467/event/1) | [Salah](https://en.wikipedia.org/wiki/Mohamed_Salah) | [Winners](winners.md)|
-|[GW2](events.md) | [Maxim Lein](https://www.youtube.com/watch?v=uuGiZWl13Zk) | [Swakll FC](https://fantasy.premierleague.com/entry/4673174/event/2) | [Son](https://en.wikipedia.org/wiki/Son_Heung-min) | [Winners](winners.md)|
-|[GW3](events.md) | [Amapiano PS](https://www.youtube.com/watch?v=2TL-ivF_JuE) | [NA](https://fantasy.premierleague.com/) | [NA](https://en.wikipedia.org/) | [Winners](winners.md)|
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<!--   -------------------------------------------------------------------------------------------------------------------------------| -->
+<!-- To update this table, it always shows top 2 last results.                                                                        | -->
+<!-- To update it means copy last row in top table and make it top in the bottom table, then enter new top row in top table and so on.| -->
+<!-- ---------------------------------------------------------------------------------------------------------------------------------| -->
+<table style="width:100%">
+  <tr>
+   <th>GW EVENTS</th>
+    <th>GW MUSIC</th>
+    <th>MOTW</th>
+    <th>POTW</th>
+  </tr>
+ <!-- -------------------------------Heading above----------------------------------- -->
+  <tr>
+    <td><a href = "#">GW3</a></td>
+    <td><a href = "https://www.youtube.com/watch?v=2TL-ivF_JuE">Amapiano PS</a></td>
+    <td><a href = "https://fantasy.premierleague.com/">NA</a></td>
+   <td><a href = "https://en.wikipedia.org/">NA</a></td>
+  </tr>
+  <tr>
+    <td><a href = "#">GW2</a></td>
+    <td><a href = "https://www.youtube.com/watch?v=uuGiZWl13Zk">Maxim Lein</a></td>
+    <td><a href = "https://fantasy.premierleague.com/entry/4673174/event/2">Swakll FC</a></td>
+   <td><a href = "https://en.wikipedia.org/wiki/Son_Heung-min">Son</a></td>
+  </tr>
+ </table>
+ <!-- ----------------------------------------------------------------------------------------------------------------------------| -->
+ <!-- ----------------------------------------------This seperates the top and bottom tables--------------------------------------| -->
+ <!-- ----------------------------------------------------------------------------------------------------------------------------| -->
+ <details>
+   <summary>Show all</summary>
+    <table>
+     <tr>
+      <td><a href = "#">GW1</a></td>
+      <td><a href = "https://www.youtube.com/watch?v=OVk0eQ0mu-M">Focused Melodies</a></td>
+      <td><a href = "https://fantasy.premierleague.com/entry/2258467/event/1">NC Boys</a></td>
+      <td><a href = "https://en.wikipedia.org/wiki/Son_Heung-min">Salah</a></td>
+     </tr>
+     </table>
+  </details>
+
+<!-- --------------------------------------------------END OF TABLE---------------------------------------------------------------| -->
 
 -----
-
-#### Live Bets(COMING IN GW 10)
-[GW1](gw1.md) | [GW2](gw2.md) | [GW3](gw3.md) | [GW4](gw4.md) | [GW4](gw4.md) |
-
------
-TTFL is a football fantasy league based on the [EPL](https://www.premierleague.com/) and runs in parallel with it.
-![banner](https://cdn.i-scmp.com/sites/default/files/styles/1200x800/public/d8/images/methode/2020/09/15/f7520b18-f6f5-11ea-a41c-8cbd1416100a_image_hires_112346.jpg?itok=C25DDz6v&v=1600140234)
 
 <details>
-<summary>LEAGUES</summary>
+<summary><i class="fa fa-trophy"></i>LEAGUES</summary>
 <p>
  TTFL is made up of, but not limited to the 3 leagues below as of 2020.
  
@@ -25,7 +56,7 @@ TTFL is a football fantasy league based on the [EPL](https://www.premierleague.c
 </details>
 
 <details>
- <summary>CONSTITUTION</summary>
+ <summary><i class="fa fa-file-pdf-o">CONSTITUTION</summary>
 
 <h3> MEMBERSHIP </h3>
 
@@ -61,6 +92,13 @@ Relegation from Championship means the team will not play any HTH league the nex
 </details>
 
 <details>
- <summary>TEAM HOMES</summary>
+ <summary><icon class="fa fa-map-marker">TEAM HOMES</summary>
  <img src="ttfl_map.png" alt="ttfl map">
 </details>
+
+#### Live Bets(COMING IN GW 10)
+[GW1](gw1.md) | [GW2](gw2.md) | [GW3](gw3.md) | [GW4](gw4.md) | [GW4](gw4.md) |
+
+-----
+TTFL is a football fantasy league based on the [EPL](https://www.premierleague.com/) and runs in parallel with it.
+![banner](https://cdn.i-scmp.com/sites/default/files/styles/1200x800/public/d8/images/methode/2020/09/15/f7520b18-f6f5-11ea-a41c-8cbd1416100a_image_hires_112346.jpg?itok=C25DDz6v&v=1600140234)
