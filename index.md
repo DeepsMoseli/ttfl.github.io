@@ -39,7 +39,6 @@
      </tr>
      </table>
   </details>
-
 <!-- --------------------------------------------------END OF TABLE---------------------------------------------------------------| -->
 
 -----
@@ -55,7 +54,7 @@
  <li><a href="https://fantasy.premierleague.com/leagues/153084/standings/h">TTFL championship HTH</a></li>
 </p>
 </details>
-
+<br>
 <details>
  <summary> <i class="fa fa-file-pdf-o" style="font-size:32px;color:red"></i> CONSTITUTION </summary>
 <br>
@@ -90,7 +89,7 @@ Relegation from Championship means the team will not play any HTH league the nex
 
 </p>
 </details>
-
+<br>
 <details>
  <summary> <i class="fa fa-map-marker" style="font-size:32px;color:red"></i> TEAM HOMES </summary>
  <img src="ttfl_map.png" alt="ttfl map">
