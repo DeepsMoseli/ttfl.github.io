@@ -409,14 +409,3 @@ footer {
     color:#444;
   }
 }
-
-/*------------------ moseli edits ------------------*/
-summary {
-  padding: 10px;
-  background-color: lightgreen;
-  border: none;
-  box-shadow: 1px 1px 2px #bbbbbb;
-  cursor: pointer;
-  text-align: center;
-}
-/*---------------------------------------------------*/
