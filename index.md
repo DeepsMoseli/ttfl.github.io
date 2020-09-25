@@ -45,7 +45,8 @@
 -----
 
 <details>
-<summary> <i class="fa fa-trophy" style="font-size:48px;color:yellow"></i> LEAGUES </summary>
+<summary> <i class="fa fa-trophy" style="font-size:32px;color:yellow"></i> LEAGUES </summary>
+  
 <p>
  TTFL is made up of, but not limited to the 3 leagues below as of 2020.
  
@@ -56,10 +57,9 @@
 </details>
 
 <details>
- <summary> <i class="fa fa-file-pdf-o" style="font-size:48px;color:red"></i> CONSTITUTION </summary>
-
-<h3> MEMBERSHIP </h3>
-
+ <summary> <i class="fa fa-file-pdf-o" style="font-size:32px;color:red"></i> CONSTITUTION </summary>
+<br>
+<h3>Membership</h3>
 <p>
 All TTFL teams are expected to be part of atmost 2 of the above league according to their eligibility.
 Managers are also expected to join and participate in the league's whatsapp group to an acceptable level throughout the season.
@@ -76,7 +76,7 @@ Managing one's team is strictly defined as performing one of the following actio
 All league codes will  be made available to qualified managers atleast a week before the first gameweek. Failure to join a league will lead to the next qualifying team in a lower league being given the spot 5 hours to GW1 Deadline.
 </p>
 
-<h3>3. LEAGUES</h3>
+<h3>Leagues</h3>
 
 <p>
  
@@ -92,7 +92,7 @@ Relegation from Championship means the team will not play any HTH league the nex
 </details>
 
 <details>
- <summary> <i class="fa fa-map-marker" style="font-size:48px;color:red"></i> TEAM HOMES </summary>
+ <summary> <i class="fa fa-map-marker" style="font-size:32px;color:red"></i> TEAM HOMES </summary>
  <img src="ttfl_map.png" alt="ttfl map">
 </details>
 
