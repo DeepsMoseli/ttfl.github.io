@@ -45,7 +45,7 @@
 -----
 
 <details>
-<summary> <i class="fa fa-trophy"></i> LEAGUES </summary>
+<summary> <i class="fa fa-trophy" style="font-size:48px;color:yellow"></i> LEAGUES </summary>
 <p>
  TTFL is made up of, but not limited to the 3 leagues below as of 2020.
  
@@ -56,7 +56,7 @@
 </details>
 
 <details>
- <summary> <i class="fa fa-file-pdf-o"></i> CONSTITUTION </summary>
+ <summary> <i class="fa fa-file-pdf-o" style="font-size:48px;color:red"></i> CONSTITUTION </summary>
 
 <h3> MEMBERSHIP </h3>
 
@@ -92,13 +92,13 @@ Relegation from Championship means the team will not play any HTH league the nex
 </details>
 
 <details>
- <summary> <i class="fa fa-map-marker"></i> TEAM HOMES </summary>
+ <summary> <i class="fa fa-map-marker" style="font-size:48px;color:red"></i> TEAM HOMES </summary>
  <img src="ttfl_map.png" alt="ttfl map">
 </details>
-
-#### Live Bets(COMING IN GW 10)
-[GW1](gw1.md) | [GW2](gw2.md) | [GW3](gw3.md) | [GW4](gw4.md) | [GW4](gw4.md) |
 
 -----
 TTFL is a football fantasy league based on the [EPL](https://www.premierleague.com/) and runs in parallel with it.
 ![banner](https://cdn.i-scmp.com/sites/default/files/styles/1200x800/public/d8/images/methode/2020/09/15/f7520b18-f6f5-11ea-a41c-8cbd1416100a_image_hires_112346.jpg?itok=C25DDz6v&v=1600140234)
+
+#### Live Bets(COMING IN GW 10)
+[GW1](gw1.md) | [GW2](gw2.md) | [GW3](gw3.md) | [GW4](gw4.md) | [GW4](gw4.md) |
