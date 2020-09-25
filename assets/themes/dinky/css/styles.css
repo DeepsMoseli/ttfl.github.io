@@ -133,7 +133,7 @@ dl p {
 
 hr {
   border:0;
-  background:#ccc;
+  background:;
   height:1px;
   margin:0 0 24px;
 }
@@ -149,6 +149,17 @@ img {
   border: 1px solid #ccc;
 }
 
+/*------------------ moseli edits ------------------*/
+details > summary {
+  padding: 10px;
+  background-color: lightgreen;
+  border: none;
+  box-shadow: 1px 1px 2px #bbbbbb;
+  cursor: pointer;
+  text-align: center;
+}
+
+/*---------------------------------------------------*/
 
 /* Code blocks */
 
