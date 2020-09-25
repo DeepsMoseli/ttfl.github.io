@@ -21,7 +21,7 @@ TTFL is a football fantasy league based on the [EPL](https://www.premierleague.c
  <li><a href = "https://fantasy.premierleague.com/leagues/106494/standings/c" >TTFL classic</a></li>
  <li><a href = "https://fantasy.premierleague.com/leagues/153036/standings/h">TTFL HTH</a></li>
  <li><a href="https://fantasy.premierleague.com/leagues/153084/standings/h">TTFL championship HTH</a></li>
-<p>
+</p>
 </details>
 
 <details>
