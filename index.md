@@ -2,6 +2,7 @@
 |--- | ---- | --- | --- | --- |
 |[GW1](events.md) | [Focused Melodies](https://www.youtube.com/watch?v=OVk0eQ0mu-M) | [NC Boys](https://fantasy.premierleague.com/entry/2258467/event/1) | [Salah](https://en.wikipedia.org/wiki/Mohamed_Salah) | [Winners](winners.md)|
 |[GW2](events.md) | [Maxim Lein](https://www.youtube.com/watch?v=uuGiZWl13Zk) | [Swakll FC](https://fantasy.premierleague.com/entry/4673174/event/2) | [Son](https://en.wikipedia.org/wiki/Son_Heung-min) | [Winners](winners.md)|
+|[GW3](events.md) | [Amapiano PS](https://www.youtube.com/watch?v=2TL-ivF_JuE) | [NA](https://fantasy.premierleague.com/) | [NA](https://en.wikipedia.org/) | [Winners](winners.md)|
 
 -----
 
@@ -20,6 +21,11 @@ TTFL is a football fantasy league based on the [EPL](https://www.premierleague.c
  * [TTFL HTH](https://fantasy.premierleague.com/leagues/153036/standings/h)
  * [TTFL championship HTH](https://fantasy.premierleague.com/leagues/153084/standings/h)
 
+<details>
+ <summary>CONSTITUTION</summary>
+
+<p>
+
 ### 2. MEMBERSHIP
 
 All TTFL teams are expected to be part of atmost 2 of the above league according to their eligibility.
@@ -34,8 +40,9 @@ Managing one's team is strictly defined as performing one of the following actio
 * shuffling the starting 11 and subs.
 
 All league codes will  be made available to qualified managers atleast a week before the first gameweek. Failure to join a league will lead to the next qualifying team in a lower league being given the spot 5 hours to GW1 Deadline.
+</p>
 
-
+<p>
 ### 3. LEAGUES
 
 * Classic - all teams qualify to play classic and can join mid season
@@ -45,6 +52,9 @@ All league codes will  be made available to qualified managers atleast a week be
 At the end of a full season, the bottom 3 TTFL HTH teams are automatically relegated and the __top 3__ in Championship gain automatic promotion to the top flight. __All relegation criteria applies before promotion.__
 
 Relegation from Championship means the team will not play any HTH league the next season. The 3 spots will be filled by the highest 3 teams in classic not playing in any HTH league. Again __All relegation criteria applies before promotion.__
+
+</p>
+</details>
 
 -----
 
