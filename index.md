@@ -1,4 +1,8 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<html>
+<head>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" type="text/css" href="semantic/dist/semantic.min.css">
+</head>
 
 <!--   -------------------------------------------------------------------------------------------------------------------------------| -->
 <!-- To update this table, it always shows top 2 last results.                                                                        | -->
@@ -96,8 +100,10 @@ Relegation from Championship means the team will not play any HTH league the nex
 </details>
 
 -----
-TTFL is a football fantasy league based on the [EPL](https://www.premierleague.com/) and runs in parallel with it.
-![banner](https://cdn.i-scmp.com/sites/default/files/styles/1200x800/public/d8/images/methode/2020/09/15/f7520b18-f6f5-11ea-a41c-8cbd1416100a_image_hires_112346.jpg?itok=C25DDz6v&v=1600140234)
+TTFL is a football fantasy league based on the <a href="https://www.premierleague.com/">EPL</a> and runs in parallel with it throughout the season.
+<img src="https://cdn.i-scmp.com/sites/default/files/styles/1200x800/public/d8/images/methode/2020/09/15/f7520b18-f6f5-11ea-a41c-8cbd1416100a_image_hires_112346.jpg?itok=C25DDz6v&v=1600140234" alt = "banner"/>
+
+</html>
 
 #### Live Bets(COMING IN GW 10)
 [GW1](gw1.md) | [GW2](gw2.md) | [GW3](gw3.md) | [GW4](gw4.md) | [GW4](gw4.md) |
