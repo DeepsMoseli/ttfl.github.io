@@ -44,9 +44,7 @@
      </table>
   </details>
 <!-- --------------------------------------------------END OF TABLE---------------------------------------------------------------| -->
-
------
-
+<br>
 <details>
 <summary> <i class="fa fa-trophy" style="font-size:32px;color:yellow"></i> LEAGUES </summary>
   
@@ -98,8 +96,7 @@ Relegation from Championship means the team will not play any HTH league the nex
  <summary> <i class="fa fa-map-marker" style="font-size:32px;color:red"></i> TEAM HOMES </summary>
  <img src="ttfl_map.png" alt="ttfl map">
 </details>
-
------
+<br>
 TTFL is a football fantasy league based on the <a href="https://www.premierleague.com/">EPL</a> and runs in parallel with it throughout the season.
 <img src="https://cdn.i-scmp.com/sites/default/files/styles/1200x800/public/d8/images/methode/2020/09/15/f7520b18-f6f5-11ea-a41c-8cbd1416100a_image_hires_112346.jpg?itok=C25DDz6v&v=1600140234" alt = "banner"/>
 
